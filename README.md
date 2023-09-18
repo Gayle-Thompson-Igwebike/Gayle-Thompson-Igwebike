@@ -1,15 +1,15 @@
-### Hi there 👋
-My name is Gayle....welcome
+### Hello..😁
 
 
-<h1 align="center">Hi, I'm Karleen 🙋🏾‍♀️!</h1>
 
-<h3 align="center">I am very passionate about programming and I have a meticulous eye. I am also enthusiastic about UX/UI, AI technology and Product Management.</h3>
+<h1 align="center">I am Gayle. Welcome to my Github page</h1>
 
-<h3 align="center">Let's Connect ⛓</h3>
-<p align="center">✉️ karleenmsrichards@gmail.com</p>
+<h3 align="center">I am a 'Full Stack' Software Engineer with a strong work ethic. I have expertise in using JavaScript for both front-end and back-end development. I am also versed in Product Management, using my knowledge and skills to create and map a products life cycle. As law degree holder, I am a fast and independent learner, able to apply critical thinking skills to my technical and product abilities.</h3>
+
+<h3 align="center">Connect with me via: </h3>
+<p align="center">✉️ email: gaylengozi@gmail.com</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/karleen-ms-richards/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karleen richards" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gayle-thompson-igwebike/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayle Thompson-Igwebike" height="40" width="40" /></a>
 </p>
 
 <div id="header" align="center">
