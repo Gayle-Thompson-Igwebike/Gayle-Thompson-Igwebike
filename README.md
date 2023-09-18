@@ -2,10 +2,10 @@
 
 
 
-<h3 align="center">I am Gayle...</h1>
+<h3 align="center">I am Gayle..</h1>
 
-<p align="center"> "...a results-driven 'Full Stack' Software Engineer with strong work ethic and a versatile skill set. I have expertise in using JavaScript to build seamless apps for both front-end and back-end. With a background in Product Management, I excel at guiding products through their entire lifecycle, from inception to delivery.
-My journey as a software engineer has been enriched by my law degree, which has honed my ability to learn quickly and independently. I bring a unique perspective to problem-solving, applying critical thinking skills to elevate my technical and product development capabilities."
+<p align="center">..a results-driven 'Full Stack' Software Engineer with strong work ethic and a versatile skill set. I have expertise in using JavaScript to build apps for both front-end and back-end projects. With a background in Product Management, I excel at guiding products through their entire lifecycle, from inception to delivery.
+My journey as a software engineer has been enriched by my law degree, which has honed my ability to learn quickly and independently. I bring a unique perspective to problem-solving, applying critical thinking skills to elevate my technical and product development capabilities.
 
 
 </p>
@@ -30,7 +30,7 @@ My journey as a software engineer has been enriched by my law degree, which has 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact)
 
