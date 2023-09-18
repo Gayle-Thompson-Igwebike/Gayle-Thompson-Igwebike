@@ -27,7 +27,7 @@ My journey as a software engineer has been enriched by my law degree, which has 
 <div align="center" >
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayle-Thompson-Igwebike)](https://github.com/gayle-thompson-igwebike/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gayle-thompson-igwebike&theme=react&count_private=true)
