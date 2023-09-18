@@ -2,9 +2,15 @@
 
 
 
-<h3 align="center">I am Gayle. Welcome to my Github page</h1>
+<h3 align="center">I am Gayle...</h1>
 
-<p align="center">I am a 'Full Stack' Software Engineer with a strong work ethic. I have expertise in using JavaScript for both front-end and back-end development. I am also versed in Product Management, using my knowledge and skills to create and map a products life cycle. As law degree holder, I am a fast and independent learner, able to apply critical thinking skills to my technical and product abilities.</p>
+<p align="center">
+I am a results-driven 'Full Stack' Software Engineer with strong work ethic and a versatile skill set. My expertise lies in harnessing the power of JavaScript to create seamless experiences, both on the front-end and back-end. With a background in Product Management, I excel at guiding products through their entire lifecycle, from inception to delivery.
+
+My journey as a software engineer has been enriched by my law degree, which has honed my ability to learn quickly and independently. I bring a unique perspective to problem-solving, applying critical thinking skills to elevate my technical and product development capabilities.
+
+
+</p>
 
 <h3 align="center">Connect with me via: </h3>
 <p align="center">✉️ email: gaylengozi@gmail.com</p>
@@ -18,16 +24,16 @@
 
 <h3 align="center">The Tech Stack I use include:</h3>
 <p align="center"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer">  </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1180px-Node.js_logo.svg.png" alt="node" width="40" height="40"/> </a> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer">  </p>
-<p>See my</p>
-<h2 align="center"> GitHub Statistics</h2>
-  <p>below</p>
+
+<h2 align="center"> My GitHub Statistics</h2>
+
 <div align="center" >
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayle-Thompson-Igwebike)](https://github.com/gayle-thompson-igwebike/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gayle-thompson-igwebike&theme=react&count_private=true)
 
   </div>
 
