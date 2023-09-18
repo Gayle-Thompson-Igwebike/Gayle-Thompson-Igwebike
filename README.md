@@ -2,9 +2,9 @@
 
 
 
-<h1 align="center">I am Gayle. Welcome to my Github page</h1>
+<h3 align="center">I am Gayle. Welcome to my Github page</h1>
 
-<h3 align="center">I am a 'Full Stack' Software Engineer with a strong work ethic. I have expertise in using JavaScript for both front-end and back-end development. I am also versed in Product Management, using my knowledge and skills to create and map a products life cycle. As law degree holder, I am a fast and independent learner, able to apply critical thinking skills to my technical and product abilities.</h3>
+<p align="center">I am a 'Full Stack' Software Engineer with a strong work ethic. I have expertise in using JavaScript for both front-end and back-end development. I am also versed in Product Management, using my knowledge and skills to create and map a products life cycle. As law degree holder, I am a fast and independent learner, able to apply critical thinking skills to my technical and product abilities.</p>
 
 <h3 align="center">Connect with me via: </h3>
 <p align="center">✉️ email: gaylengozi@gmail.com</p>
