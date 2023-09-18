@@ -22,8 +22,8 @@
 <h2 align="center">My Stats</h2>
 <div align="center" >
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karleenmsrichards&theme=react&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleenmsrichards&langs_count=5&theme=react&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayle-Thompson-Igwebike&theme=react&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
 
   </div>
