@@ -1,9 +1,8 @@
 ### <h2 align="center">Hello, I'm Gayle.. 😁</h2>
 
-<p align="justify">A 'full stack' Software Engineer with strong work ethic and versatile skill set. I enjoy building things and my expertise is using JavaScript to build apps for front-end and back-end projects. My skills in Product Management means I can guide products through their entire lifecycle, from inception to delivery.
-My journey as a software engineer has been enriched by my LAW Degree, which has honed my ability to learn quickly and independently. 
-I bring a unique perspective to problem-solving, applying critical thinking skills to elevate my technical and product development capabilities.
-In my free time I like contribute to open source code by solving problems on WomenWhoCode repos. I also love to create and run events for women in tech via my ambassadorship with Google's Women TechMakers!.
+<p align="justify">‣ A Software Engineer with strong work ethic and versatile skill set. I use JavaScript to build apps for front-end and back-end projects. <br> ‣ With my Product Management skills, I am able to guide products through their entire lifecycle, from inception to delivery.<br> <br>
+*My journey as a software engineer has been enriched by my LAW Degree, which has honed my ability to learn quickly and independently. I bring a unique perspective to problem-solving, by applying critical thinking skills to elevate my technical/product development capabilities.* <br> <br>
+**In my free time I like contribute to open source code by solving open tickets on WomenWhoCode repos. I also love to create and run events for women in tech via my ambassadorship with Google Women TechMakers!**
 </p> <br> 
 
 
@@ -26,19 +25,10 @@ In my free time I like contribute to open source code by solving problems on Wom
 <br>
 
 <h2 align="left"> 🔥See My Stats🔥</h2>
+
 <div align="center" >
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayle-thompson-igwebikes&langs_count=5&theme=react&layout=compact) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebikes&theme=react&hide=stars,issues)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
 
   </div>
-
-<!--<div align="center"> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=synthwave)
-  </div>-->
-
-
-
 
 <!--
 **Gayle-Thompson-Igwebike/Gayle-Thompson-Igwebike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
