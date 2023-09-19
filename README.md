@@ -27,9 +27,16 @@
 <h2 align="left"> 🔥See My Stats🔥</h2>
 
 <div align="center" >
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karleenmsrichards&theme=react&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleenmsrichards&langs_count=5&theme=react&layout=compact)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayle-thompson-igwebike&langs_count=5&theme=react&layout=compact)
+</div>
+
+<div align="center">
+
+![Gayle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=radical)
+
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gayle-thompson-igwebike&theme=react&count_private=true)
 
   </div>
 
