@@ -2,7 +2,7 @@
 
 <p align="justify">‣ A Software Engineer with strong work ethic and versatile skill set. I use JavaScript to build apps for front-end and back-end projects. <br> ‣ With my Product Management skills, I am able to guide products through their entire lifecycle, from inception to delivery.<br> <br>
 *My journey as a software engineer has been enriched by my LAW Degree, which has honed my ability to learn quickly and independently. I bring a unique perspective to problem-solving, by applying critical thinking skills to elevate my technical/product development capabilities.* <br> <br>
-**In my free time, I contribute to open-source projects by addressing WomenWhoCode repository issues. As a Google Women TechMakers ambassador, I organise empowering events for women in tech**
+**In my free time, I contribute to open-source projects by addressing WomenWhoCode repository issues. And as a Google Women TechMakers ambassador, I organise empowering events for women in tech**
 </p> <br> 
 
 
