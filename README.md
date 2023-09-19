@@ -29,13 +29,22 @@ I bring a unique perspective to problem-solving, applying critical thinking skil
 
 <h2 align="left"> Here are My GitHub Statistics</h2>
 
-<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact) </div>
-
-<div align="center" > 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=synthwave)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gayle-thompson-igwebike&theme=react&count_private=true)
+<h2 align="center">My Stats</h2>
+<div align="center" >
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayle-thompson-igwebikes&langs_count=5&theme=react&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebikes&theme=react&hide=stars,issues)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
 
   </div>
+
+<!--<div align="center"> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayle-thompson-igwebike&langs_count=5&theme=react&layout=compact) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=synthwave)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gayle-thompson-igwebike&theme=react&count_private=true)
+  </div>-->
+
+
+
 
 <!--
 **Gayle-Thompson-Igwebike/Gayle-Thompson-Igwebike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
