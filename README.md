@@ -1,4 +1,4 @@
-### <h2 align="center" font-size="10px">Hello, I'm Gayle... 😁</h2>
+### <h2 align="center">Hello, I'm Gayle... 😁</h2>
 
 <p align="justify">‣ <strong><i>A Software Engineer</i></strong> with strong work ethic and versatile skill set. I use <strong>JavaScript</strong> to build apps for <strong><i>front-end and back-end </i></strong>projects . And with my <strong><i>Product Management skills</i></strong>, I am able to guide products through their entire lifecycle, from inception to delivery.<br> <br>
 ‣ My journey as a software engineer has been enriched by my LAW Degree, which has honed my <strong>ability to learn quickly and independently</strong>. I bring a unique perspective to <strong>problem-solving</strong>, applying <strong>critical thinking abilities</strong> to elevate my <strong>technical/product development capabilities</strong>.* <br> <br>
@@ -27,7 +27,10 @@
 <h2 align="left"> 🔥See My Stats🔥</h2>
 
 <div align="center" >
-![Gayle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karleenmsrichards&theme=react&hide=stars,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleenmsrichards&langs_count=5&theme=react&layout=compact)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
+
   </div>
 
 
