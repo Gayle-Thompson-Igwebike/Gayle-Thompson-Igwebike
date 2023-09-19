@@ -1,8 +1,8 @@
-### <h1 align="center">Hi..😁👩🏾‍🦳/h1>
+### <h2 align="center">Hello..😁</h1>
 
 
 
-<h3 align="left">I am Gayle..</h1>
+<h3 align="left">I'm Gayle..</h1>
 
 <p align="justify">A results-driven 'Full Stack' Software Engineer with strong work ethic and versatile skill set. I have expertise in using JavaScript to build apps for both front-end and back-end projects. With a background in Product Management, I excel at guiding products through their entire lifecycle, from inception to delivery.
 My journey as a software engineer has been enriched by my law degree, which has honed my ability to learn quickly and independently. 
@@ -27,13 +27,11 @@ My journey as a software engineer has been enriched by my law degree, which has 
 
 <h2 align="left"> My GitHub Statistics</h2>
 
-<div align="center" >
-  
+<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact) </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayle-Thompson-Igwebike&langs_count=5&theme=react&layout=compact)
-
+<div align="center" > 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=synthwave)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gayle-thompson-igwebike&theme=react&count_private=true)
 
   </div>
 
