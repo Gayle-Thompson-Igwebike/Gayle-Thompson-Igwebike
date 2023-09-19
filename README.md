@@ -1,8 +1,8 @@
-### <h2 align="center">Hello, I'm Gayle.. 😁</h2>
+### <h2 align="center" font-size="10px">Hello, I'm Gayle... 😁</h2>
 
-<p align="justify">‣ A Software Engineer with strong work ethic and versatile skill set. I use JavaScript to build apps for front-end and back-end projects. <br> ‣ With my Product Management skills, I am able to guide products through their entire lifecycle, from inception to delivery.<br> <br>
-*My journey as a software engineer has been enriched by my LAW Degree, which has honed my ability to learn quickly and independently. I bring a unique perspective to problem-solving, by applying critical thinking skills to elevate my technical/product development capabilities.* <br> <br>
-**In my free time, I contribute to open-source projects by addressing WomenWhoCode repository issues. And as a Google Women TechMakers ambassador, I organise empowering events for women in tech**
+<p align="justify">‣ <strong><i>A Software Engineer</i></strong> with strong work ethic and versatile skill set. I use <strong>JavaScript</strong> to build apps for <strong><i>front-end and back-end </i></strong>projects . And with my <strong><i>Product Management skills</i></strong>, I am able to guide products through their entire lifecycle, from inception to delivery.<br> <br>
+‣ My journey as a software engineer has been enriched by my LAW Degree, which has honed my <strong>ability to learn quickly and independently</strong>. I bring a unique perspective to <strong>problem-solving</strong>, applying <strong>critical thinking abilities</strong> to elevate my <strong>technical/product development capabilities</strong>.* <br> <br>
+**In my free time, I contribute to open-source projects by addressing <strong><i>WomenWhoCode</i></strong> repository issues. And as a <strong><i>Google Women TechMakers ambassador</i></strong>, I organise empowering events for women in tech**
 </p> <br> 
 
 
@@ -27,8 +27,12 @@
 <h2 align="left"> 🔥See My Stats🔥</h2>
 
 <div align="center" >
-
+![Gayle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayle-thompson-igwebike&show_icons=true&theme=radical)
   </div>
+
+
+
+
 
 <!--
 **Gayle-Thompson-Igwebike/Gayle-Thompson-Igwebike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
