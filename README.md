@@ -1,6 +1,6 @@
 ### <h2 align="center">Hello, I'm Gayle... 😁</h2>
 
-<p align="justify"><strong><i>A Software Engineer</i></strong> with versatile skill set. Using <strong>JavaScript</strong> for <strong><i>front-end and back-end </i></strong>development. With my <strong><i>Product Management skills</i></strong>, I can guide products through lifecycles. My journey as a software engineer has been enriched by my LAW Degree, which has honed my <strong>ability to learn quickly and independently</strong>. I bring a unique perspective to <strong>problem-solving</strong>, applying <strong>critical thinking abilities</strong> to elevate my <strong>technical/product skills.</strong> <br> <br>
+<p align="justify"><strong><i>A full stack software engineer</i></strong> with versatile skill set. Using <strong>JavaScript</strong> for <strong><i>front-end and back-end </i></strong>development. With my <strong><i>Product Management skills</i></strong>, I can guide products through lifecycles. My journey as a software engineer has been enriched by my LAW Degree, which has honed my <strong>ability to learn quickly and independently</strong>. I bring a unique perspective to <strong>problem-solving</strong>, applying <strong>critical thinking abilities</strong> to elevate my <strong>technical/product skills.</strong> <br> <br>
 **In my free time, I contribute to open-source projects by addressing <strong><i>WomenWhoCode</i></strong> repository issues. And as a <strong><i>Google Women TechMakers ambassador</i></strong>, I organise empowering events for women in tech**
 </p> <br> <hr>
 
